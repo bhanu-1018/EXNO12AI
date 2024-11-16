@@ -1,6 +1,6 @@
 # EXNO12AI
 Planning –  Monkey Banana Problem
-### DATE:                                                                            
+### DATE:  23-10-2024                                                                          
 ### REGISTER NUMBER : 212222010180
 ### AIM: 
 To find the sequence of plan for Monkey Banana problem using PDDL Editor.
